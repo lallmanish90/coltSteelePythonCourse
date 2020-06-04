@@ -1,0 +1,63 @@
+price
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£51.77'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£53.74'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£50.10'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£47.82'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£54.23'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£22.65'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£33.34'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£17.93'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£22.60'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£52.15'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£13.99'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£20.66'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£17.46'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£52.29'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£35.02'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£57.25'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£23.88'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£37.59'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£51.33'>]"
+"[<Selector xpath=""descendant-or-self::*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price_color ')]/text()"" data='£45.17'>]"
+price
+£51.77
+£53.74
+£50.10
+£47.82
+£54.23
+£22.65
+£33.34
+£17.93
+£22.60
+£52.15
+£13.99
+£20.66
+£17.46
+£52.29
+£35.02
+£57.25
+£23.88
+£37.59
+£51.33
+£45.17
+price,title
+£51.77,A Light in the Attic
+£53.74,Tipping the Velvet
+£50.10,Soumission
+£47.82,Sharp Objects
+£54.23,Sapiens: A Brief History of Humankind
+£22.65,The Requiem Red
+£33.34,The Dirty Little Secrets of Getting Your Dream Job
+£17.93,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+£22.60,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+£52.15,The Black Maria
+£13.99,"Starving Hearts (Triangular Trade Trilogy, #1)"
+£20.66,Shakespeare's Sonnets
+£17.46,Set Me Free
+£52.29,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+£35.02,Rip it Up and Start Again
+£57.25,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"
+£23.88,Olio
+£37.59,Mesaerion: The Best Science Fiction Stories 1800-1849
+£51.33,Libertarianism for Beginners
+£45.17,It's Only the Himalayas
